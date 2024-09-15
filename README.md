@@ -43,3 +43,8 @@ Camadas:
 
     Repository:
         Responsabilidade: Comunicação com o banco de dados, persistência de entidades.
+
+
+Para rodar o projeto:
+1- Clonar o projeto
+2- Executar o comando Update-Database no Package Manage Console
