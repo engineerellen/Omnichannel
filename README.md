@@ -22,7 +22,7 @@ Componentes:
 
     
 Aqui está a visão de Componentes e Código do projeto OmniClientHub, apresentando a organização interna e os relacionamentos entre as camadas.
-![image](https://github.com/user-attachments/assets/7e9c9e70-e0f5-4e3d-81f4-73649d44c216)
+![image](https://github.com/user-attachments/assets/27292554-aabb-4652-9945-17fac0f62d79)
 
 1. Componentes (Nível de Camadas)
 
