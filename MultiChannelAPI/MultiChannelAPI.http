@@ -1,0 +1,6 @@
+@MultiChannelAPI_HostAddress = http://localhost:5280
+
+GET {{MultiChannelAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
