@@ -20,7 +20,7 @@ Componentes:
     API MultiChannelAPI: Implementada em ASP.NET Core, exposta como uma API RESTful.
     Database (SQL Server): Armazena as informações persistentes, como clientes.
 
-![alt text]https://drive.google.com/file/d/17N5NFYS4cEIpstPczD2mZbCJcF78ZMIN/view?usp=drive_link
+![alt text] https://drive.google.com/file/d/17N5NFYS4cEIpstPczD2mZbCJcF78ZMIN/view?usp=drive_link
 
 Aqui está a visão de Componentes e Código do projeto OmniClientHub, apresentando a organização interna e os relacionamentos entre as camadas.
 1. Componentes (Nível de Camadas)
